@@ -1,5 +1,4 @@
 body {
-  width: 100%;
   background-color: white; }
   body footer {
     font-family: 'Pacifico','Merienda';
@@ -116,4 +115,15 @@ div img {
   padding: 20px;
   background: #fff;
   min-height: 460px;
+}
+
+.landing {
+  margin: 100px;
+  padding: 20px;
+  list-style-type: none;
+  background-color: teal
+}
+.landing p a{
+  color: white;
+  margin: 10px;
 }
